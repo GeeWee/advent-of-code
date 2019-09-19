@@ -1,0 +1,11 @@
+/home/geewee/programming/advent-of-code/bin/Debug/netcoreapp2.2/advent-of-code.deps.json
+/home/geewee/programming/advent-of-code/bin/Debug/netcoreapp2.2/advent-of-code.runtimeconfig.json
+/home/geewee/programming/advent-of-code/bin/Debug/netcoreapp2.2/advent-of-code.runtimeconfig.dev.json
+/home/geewee/programming/advent-of-code/bin/Debug/netcoreapp2.2/advent-of-code.dll
+/home/geewee/programming/advent-of-code/bin/Debug/netcoreapp2.2/advent-of-code.pdb
+/home/geewee/programming/advent-of-code/obj/Debug/netcoreapp2.2/advent-of-code.csprojAssemblyReference.cache
+/home/geewee/programming/advent-of-code/obj/Debug/netcoreapp2.2/advent-of-code.csproj.CoreCompileInputs.cache
+/home/geewee/programming/advent-of-code/obj/Debug/netcoreapp2.2/advent-of-code.AssemblyInfoInputs.cache
+/home/geewee/programming/advent-of-code/obj/Debug/netcoreapp2.2/advent-of-code.AssemblyInfo.cs
+/home/geewee/programming/advent-of-code/obj/Debug/netcoreapp2.2/advent-of-code.dll
+/home/geewee/programming/advent-of-code/obj/Debug/netcoreapp2.2/advent-of-code.pdb
