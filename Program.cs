@@ -8,8 +8,9 @@ namespace advent_of_code
         static void Main(string[] args)
         {
 
-            var day1 = new DayOne();
-            day1.run();
-        }
+            var day = new DayThree();
+            day.runStarOne();
+            // day.runStarTwo();
+        }   
     }
 }
