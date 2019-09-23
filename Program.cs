@@ -8,7 +8,7 @@ namespace advent_of_code
         static void Main(string[] args)
         {
 
-            var day = new DayThree();
+            var day = new DayFour();
             day.runStarOne();
             // day.runStarTwo();
         }   
